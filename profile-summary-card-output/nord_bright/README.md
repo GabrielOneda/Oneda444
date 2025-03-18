@@ -45,16 +45,6 @@
 
 ---
 
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Oneda444/Oneda444/main/profile-summary-card-output/nord_bright/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
